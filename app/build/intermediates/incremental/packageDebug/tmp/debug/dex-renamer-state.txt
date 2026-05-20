@@ -1,0 +1,7 @@
+#Wed May 20 15:57:03 EEST 2026
+base.0=C\:\\Users\\junpi\\Downloads\\wetransfer_lab1gc_2026-05-20_1240\\Lab1HelloWorldOpenGL\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\junpi\\Downloads\\wetransfer_lab1gc_2026-05-20_1240\\Lab1HelloWorldOpenGL\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+path.0=0/classes.dex
+path.1=14/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
